@@ -1,0 +1,44 @@
+body {
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.header-logo{
+  color: #212121;
+  font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 31px;
+}
+
+.web-logo{
+  color: #2196F3;
+}
+
+.header-link{
+  color: #212121;
+}
+
+.contact-link{
+  color: #757575;
+}
+
+.header-link:hover,
+.header-link:focus,
+.contact-link:hover,
+.contact-link:focus
+{
+  color:#2196F3;
+}
+.filters-btn{
+  cursor: pointer;
+}
